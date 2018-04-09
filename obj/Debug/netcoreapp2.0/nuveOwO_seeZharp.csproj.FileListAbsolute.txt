@@ -1,0 +1,10 @@
+C:\Users\MartinRB\Documents\git_prollekts\C#\nuveOwO_seeZharp\bin\Debug\netcoreapp2.0\nuveOwO_seeZharp.deps.json
+C:\Users\MartinRB\Documents\git_prollekts\C#\nuveOwO_seeZharp\bin\Debug\netcoreapp2.0\nuveOwO_seeZharp.runtimeconfig.json
+C:\Users\MartinRB\Documents\git_prollekts\C#\nuveOwO_seeZharp\bin\Debug\netcoreapp2.0\nuveOwO_seeZharp.runtimeconfig.dev.json
+C:\Users\MartinRB\Documents\git_prollekts\C#\nuveOwO_seeZharp\bin\Debug\netcoreapp2.0\nuveOwO_seeZharp.dll
+C:\Users\MartinRB\Documents\git_prollekts\C#\nuveOwO_seeZharp\bin\Debug\netcoreapp2.0\nuveOwO_seeZharp.pdb
+C:\Users\MartinRB\Documents\git_prollekts\C#\nuveOwO_seeZharp\obj\Debug\netcoreapp2.0\nuveOwO_seeZharp.csproj.CoreCompileInputs.cache
+C:\Users\MartinRB\Documents\git_prollekts\C#\nuveOwO_seeZharp\obj\Debug\netcoreapp2.0\nuveOwO_seeZharp.AssemblyInfoInputs.cache
+C:\Users\MartinRB\Documents\git_prollekts\C#\nuveOwO_seeZharp\obj\Debug\netcoreapp2.0\nuveOwO_seeZharp.AssemblyInfo.cs
+C:\Users\MartinRB\Documents\git_prollekts\C#\nuveOwO_seeZharp\obj\Debug\netcoreapp2.0\nuveOwO_seeZharp.dll
+C:\Users\MartinRB\Documents\git_prollekts\C#\nuveOwO_seeZharp\obj\Debug\netcoreapp2.0\nuveOwO_seeZharp.pdb
